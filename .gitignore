@@ -1,1 +1,4 @@
 /node_modules
+/web/dist
+/.idea
+/npm-debug.log
